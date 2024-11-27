@@ -1,4 +1,10 @@
-## UW Plasma
+# UW Plasma
+
+Our group focuses on understanding plasma physics phenomena, namely fusion plasmas, astrophysical plasmas, and basic plasma physics. We use a variety of physical models and numerical codes to achieve this, including machine learning methods.
+
+
+To learn more or to apply check out our 🌐[website](https://rogerio.physics.wisc.edu)
+
 
 <!--
 
