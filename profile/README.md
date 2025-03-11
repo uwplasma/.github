@@ -1,18 +1,15 @@
-# UW Plasma
+## Welcome to the team 🙌 
 
-Our group focuses on understanding plasma physics phenomena, namely fusion plasmas, astrophysical plasmas, and basic plasma physics. We use a variety of physical models and numerical codes to achieve this, including machine learning methods.
+![stellarator](https://rogerio.physics.wisc.edu/wp-content/uploads/2023/12/HSX_QHS.gif)
 
+We are a research group based at the Physics Department of the University of Wisconsin-Madison.
 
-To learn more or to apply check out our 🌐[website](https://rogerio.physics.wisc.edu)
+<img src="https://rogerio.physics.wisc.edu/wp-content/uploads/2024/11/UWPlasma_Rogerio_Group_13Nov2024_-900x600.jpeg" alt="drawing" width="500"/>
 
+You can visit our website at https://rogerio.physics.wisc.edu/
 
-<!--
+<img src="https://rogerio.physics.wisc.edu/wp-content/uploads/2024/09/UWMadison_Group_Meeting-900x600.jpg" alt="drawing" width="500"/>
 
-**Here are some ideas to get you started:**
+You're welcome to browse our codes in our various repositories. Please get in touch with us in the discussion section of the code you're using or using the contacts on our website.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our focus is on plasma physics, including fusion energy, stellarator optimization and basic plasma physics research.
