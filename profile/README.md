@@ -7,6 +7,7 @@ You're welcome to browse our codes in our various repositories. Get in touch wit
 List of codes and their functionality:
 - ESSOS: stellarator optimization code, mostly for coil and near-axis optimization
 - JAX-in-Cell: 1D3V particle-in-cell code for plasma physics simulations
+- PyPIC3D: 3D3V particle-in-cell code for plasma physics simulations
 
 <img src="https://rogerio.physics.wisc.edu/wp-content/uploads/2024/11/UWPlasma_Rogerio_Group_13Nov2024_-900x600.jpeg" alt="drawing" width="500"/>
 
