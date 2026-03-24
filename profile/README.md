@@ -5,9 +5,10 @@ Our focus is on plasma physics, including fusion energy, stellarator optimizatio
 You're welcome to browse our codes in our various repositories. Get in touch with us in the discussion section of the code you're using or using the contacts on our website.
 
 List of codes and their functionality:
-- ESSOS: stellarator optimization code, mostly for coil and near-axis optimization
 - JAX-in-Cell: 1D3V particle-in-cell code for plasma physics simulations
 - PyPIC3D: 3D3V particle-in-cell code for plasma physics simulations
+- SPECTRAX: 3D3V spectral Vlasov solver using a Hermite representation in velocity space
+- Stellarator optimization suite: vmec_jax, booz_xform_jax, neo_jax, virtual_casing_jax, sfincs_jax, NEOPAX, ESSOS
 
 <img src="https://rogerio.physics.wisc.edu/wp-content/uploads/2024/11/UWPlasma_Rogerio_Group_13Nov2024_-900x600.jpeg" alt="drawing" width="500"/>
 
