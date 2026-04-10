@@ -4,7 +4,7 @@ We are a research group based at the Physics Department of the University of Wis
 Our focus is on plasma physics, including fusion energy, stellarator optimization, and basic plasma physics research.
 You're welcome to browse our codes in our various repositories. Get in touch with us in the discussion section of the code you're using or using the contacts on our website.
 
-List of codes and their functionality:
+List of some of the codes and their functionality:
 - JAX-in-Cell: 1D3V particle-in-cell code for plasma physics simulations
 - PyPIC3D: 3D3V particle-in-cell code for plasma physics simulations
 - SPECTRAX: 3D3V spectral Vlasov solver using a Hermite representation in velocity space
